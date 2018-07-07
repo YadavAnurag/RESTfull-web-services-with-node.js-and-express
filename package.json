@@ -1,0 +1,37 @@
+{
+  "name": "restfull-web-services-with-node.js-and-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YadavAnurag/RESTfull-web-services-with-node.js-and-express.git"
+  },
+  "keywords": [
+    "rest",
+    "express",
+    "restfull",
+    "nodejs",
+    "node.js"
+  ],
+  "author": "Anurag Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YadavAnurag/RESTfull-web-services-with-node.js-and-express/issues"
+  },
+  "homepage": "https://github.com/YadavAnurag/RESTfull-web-services-with-node.js-and-express#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "gulp": "^4.0.0",
+    "gulp-mocha": "^6.0.0",
+    "gulp-nodemon": "^2.2.1",
+    "mongoose": "^5.2.1",
+    "should": "^13.2.1",
+    "sinon": "^6.1.3"
+  }
+}
